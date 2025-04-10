@@ -1,10 +1,3 @@
-//
-//  clickerApp.swift
-//  clicker
-//
-//  Created by Николай on 05.04.2025.
-//
-
 import SwiftUI
 import SwiftData
 
